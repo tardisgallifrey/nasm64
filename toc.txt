@@ -1,0 +1,20 @@
+ex1.asm   				;  minimalist 64 bit NASM
+ex3.asm					;  minimalist 64 bit with jump instruction, NASM
+ex4.asm					;  performing a loop with 64 bit NASM
+ex7.asm					;  minimalist 64 bit function call NASM
+ex7a.asm					;  64 bit function call with prologue, epilogue
+ex10.asm					;  StackOverflow 64 bit call of printf in NASM
+test.asm					;  StackOverflow 64 bit Hello World in NASM
+tut1.asm					;  commented, formatted 64 bit Hello World in NASM
+hola.asm					;  64 bit 'puts' C function call in NASM
+fibonacci.asm			;  copied fibonacci print in 64 bit NASM
+triangle.asm			;  copied triangle of stars in 64 bit NASM
+
+
+
+
+
+
+
+;  All ex??.asm files adapted from Davy Wybiral's playlist
+;  for 32 bit NASM found on YouTube
